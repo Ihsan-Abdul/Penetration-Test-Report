@@ -3,10 +3,10 @@ This repository contains a penetration test report from a simulated engagement p
 
 ##  Objectives
 The goal of this project was to:
-Discover and exploit vulnerabilities across a mixed-OS environment
-Escalate privileges and access sensitive data
-Document technical findings and provide remediation recommendations
-Simulate real-world ethical hacking under PTES and MITRE ATT&CK frameworks
+Discover and exploit vulnerabilities across a mixed-OS environment.
+Escalate privileges and access sensitive data.
+Document technical findings and provide remediation recommendations.
+Simulate real-world ethical hacking under PTES and MITRE ATT&CK frameworks.
 
 ## Tools Used
 - **Reconnaissance**: Nmap, Domain Dossier, crt.sh
