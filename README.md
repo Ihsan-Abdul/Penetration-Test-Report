@@ -39,9 +39,9 @@ Simulate real-world ethical hacking under PTES and MITRE ATT&CK frameworks
 - Sensitive Data Exposure
 
 ## Severity Overview
--**Critical**: 14
--**High**:3
--**Medium**: 3
+**Critical**: 14
+**High**: 3
+**Medium**: 3
 
 > Vulnerabilities were rated based on business impact and ease of exploitation, aligned with PTES and general CVSS logic.
 
@@ -49,7 +49,7 @@ Simulate real-world ethical hacking under PTES and MITRE ATT&CK frameworks
 [Download the Full Report (PDF)](./Rekall_Penetration_Test_Report.pdf)
 
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 > This project was conducted entirely in a **simulated lab environment**. No real systems or external companies were involved. The purpose of this work is strictly educational and professional portfolio development.
 
